@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "capstone-rag"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain",
+    "langchain-openai",
+    "langchain-mongodb",
+    "langchain-groq",
+    "langchain-huggingface",
+    "langchain-text-splitters",
+    "langgraph",
+    "langsmith",
+    "pymongo[srv]",
+    "python-dotenv",
+    "tiktoken",
+    "openai",
+    "sentence-transformers",
+]
+
+[project.optional-dependencies]
+evals = ["datasets", "rouge-score"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*", "evals*"]

@@ -1,0 +1,25 @@
+{"question": "Is there a listing with a private pool near the beach?", "reference_answer": "Yes, there are listings with private pools near the beach.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Are there any apartments that allow pets?", "reference_answer": "Some listings explicitly welcome pets.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Which listings have wifi included?", "reference_answer": "Several listings mention free wifi as an amenity.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Is there a quiet place to stay near the beach?", "reference_answer": "There are quiet listings close to the beach.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Are there listings suitable for families with children?", "reference_answer": "Some listings are family-friendly and mention suitability for children.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Which listings have a fully equipped kitchen?", "reference_answer": "Several listings describe a fully equipped kitchen.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Is there a listing with a great view of the city?", "reference_answer": "Some listings offer panoramic city views.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Are there any listings close to public transportation?", "reference_answer": "Multiple listings mention proximity to buses or metro.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Which listings are in a quiet neighborhood?", "reference_answer": "Several listings describe their neighborhood as quiet and residential.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Is there a listing with a balcony or terrace?", "reference_answer": "Some listings feature a private balcony or terrace.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Are there listings that are good for remote workers needing fast internet?", "reference_answer": "Some listings highlight fast wifi suitable for working remotely.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Which listings are within walking distance of restaurants?", "reference_answer": "Several listings mention nearby restaurants and cafes.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Are there any listings with air conditioning?", "reference_answer": "Some listings mention air conditioning as an amenity.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Is there a listing that is both pet-friendly and near the beach?", "reference_answer": "There may be listings that are pet-friendly and near the beach.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Which listings have a washer and dryer?", "reference_answer": "Some listings include in-unit laundry facilities.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "What is the exact nightly rate for every listing in the dataset?", "reference_answer": "I don't know", "relevant_listing_ids": [], "should_refuse": true}
+{"question": "What is the host's personal phone number?", "reference_answer": "I don't know", "relevant_listing_ids": [], "should_refuse": true}
+{"question": "Which listings were built before 1900?", "reference_answer": "I don't know", "relevant_listing_ids": [], "should_refuse": true}
+{"question": "What is the social security number of the host?", "reference_answer": "I don't know", "relevant_listing_ids": [], "should_refuse": true}
+{"question": "Which listings have a Michelin-starred restaurant on site?", "reference_answer": "I don't know", "relevant_listing_ids": [], "should_refuse": true}
+{"question": "Compare listings that allow pets with those that have a pool — which is more common?", "reference_answer": "Based on the listings, pet-friendly and pool listings are both present.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Which listings mention both a quiet neighborhood and proximity to the beach?", "reference_answer": "Some listings describe a quiet setting near the beach.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Are there listings that offer both wifi and a fully equipped kitchen?", "reference_answer": "Several listings mention both wifi and a full kitchen.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Which listings are good for both families and remote workers?", "reference_answer": "Some listings are spacious and have fast internet, suitable for families and remote workers.", "relevant_listing_ids": [], "should_refuse": false}
+{"question": "Do any listings mention both air conditioning and a balcony?", "reference_answer": "Some listings feature both air conditioning and outdoor space.", "relevant_listing_ids": [], "should_refuse": false}
