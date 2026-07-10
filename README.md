@@ -23,7 +23,7 @@ User question
        │ context is good (or max rewrites reached)
        ▼
 ┌─────────────┐
-│  generate   │  answer from context only; "I don't know" if insufficient
+│  generate   │  answer from context only; 
 │  (node 3)   │
 └──────┬──────┘
        │
